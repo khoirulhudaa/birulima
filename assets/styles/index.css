@@ -3,6 +3,10 @@ body {
     margin: 0;
 }
 
+.bg-jj {
+    width: 100vw;
+}
+
 .section1 {
     width: 100vw;
     height: 130vh;
