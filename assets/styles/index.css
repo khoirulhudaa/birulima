@@ -1103,22 +1103,23 @@ form {
         font-style: normal;
         font-weight: bold;
         width: 100vw;
-        font-size: 30px;
+        font-size: 26px;
         line-height: 140%;
-        text-align: center;
+        text-align: left;
+        margin-left: 20px;
         color: #FFFFFF;
     }
 
     .section4 .p {
         font-style: normal;
         font-weight: normal;
-        font-size: 15px;
+        font-size: 16px;
         margin-bottom: 20px;
         line-height: 150%;
-        width: 90vw;
-        margin-left: auto;
+        width: 86vw;
+        margin-left: 20px;
         margin-right: auto;
-        text-align: center;
+        text-align: left;
         color: #FFFFFF;
     }
 
@@ -1179,13 +1180,12 @@ form {
 
     .section5 h2 {
         margin-top: 20px;
-        margin-left: auto;
+        margin-left: 20px;
         margin-bottom: 53px;
-        margin-left: auto;
-        text-align: center;
+        text-align: left;
         font-style: normal;
         font-weight: bold;
-        font-size: 30px;
+        font-size: 26px;
         line-height: 140%;
         color: #0D3063;
     }
@@ -1194,9 +1194,9 @@ form {
         width: 188px;
         height: 54px;
         right: 0;
-        transform: translate(-50%, -50%);
+        transform: translate(0%, -50%);
         position: relative;
-        left: 50%;
+        left: 6.5%;
         right: 0;
         top: 5px;
         background-color: transparent;
