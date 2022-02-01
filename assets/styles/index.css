@@ -695,7 +695,7 @@ form {
     .btn-togglez .span {
         width: 33px;
         z-index: 555;
-        margin: 6px;
+        margin: 8px 6px;
         position: relative;
         cursor: pointer;
         height: 4px;
