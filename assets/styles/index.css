@@ -10,6 +10,7 @@ html {
 
 .bg-jj {
     width: 100vw;
+    filter: brightness(63%)
 }
 
 .section1 {
@@ -681,6 +682,14 @@ form {
 }
 
 @media screen and (max-width: 860px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    html {
+        overflow-x: hidden;
+    }
     
     .btn-togglez {
         right: 0px;
