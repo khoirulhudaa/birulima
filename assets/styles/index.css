@@ -1035,7 +1035,7 @@ form {
         position: relative;
         width: 100vw;
         margin-top: 35px;
-        overflow-x: hidden;
+        overflow: hidden;
         height: max-content;
     }
 
